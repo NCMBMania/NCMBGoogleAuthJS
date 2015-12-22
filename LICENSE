@@ -1,0 +1,11 @@
+--2015-12-22 11:11:50--  http://moongift.mit-license.org/license.txt
+Resolving moongift.mit-license.org... 176.58.96.91
+Connecting to moongift.mit-license.org|176.58.96.91|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1092 (1.1K) [text/plain]
+Saving to: 'license.txt'
+
+     0K .                                                     100% 80.1M=0s
+
+2015-12-22 11:11:51 (80.1 MB/s) - 'license.txt' saved [1092/1092]
+
