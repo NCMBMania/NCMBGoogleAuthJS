@@ -20,7 +20,7 @@ function statusChangeCallback(response) {
 }
 
 hello.init({
-	google: 'YOUR_GOOGLE_CLIENT_ID'
+	google: '534017848183-ssks4nq6egmctpbsrj43c3pdq8siepjb.apps.googleusercontent.com'
 }, {redirect_uri: 'redirect.html'});
 
 $(function() {
